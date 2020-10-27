@@ -1,4 +1,4 @@
-# Blogging Website Using Django
+# Blogging Website Using Django - Part1
 
 
 <img src="https://wezom.com.ua/Media/files/filemanager/2019/jang/maxresdefault.jpg" alt="Your image title" width="500"/>
